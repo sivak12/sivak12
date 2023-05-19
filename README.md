@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sivak12
-- 👀 I’m interested in building useful, interesting apps.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on building useful applications.
+- 👋 Hi, I’m Siva. I have worked in Product Development to build Enterprise Web Applications.
+- 👀 I’m interested in building useful apps and solving problems through tech products.
+- 🌱 I’m building using the MERN stack.
+- 💞️ I’m looking to collaborate on building products.
 <!--- 📫 How to reach me sivakumaran.e@gmail.com -->
 
 <!---
